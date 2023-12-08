@@ -1,0 +1,16 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ks
+!*.ain
+!out.txt
+!.gitignore
+!README.md
+
+# Images
