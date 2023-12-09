@@ -10,6 +10,7 @@
 !*.ks
 !*.ain
 !out.txt
+!*.fnl
 !.gitignore
 !README.md
 
