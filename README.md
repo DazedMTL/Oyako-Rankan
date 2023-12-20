@@ -3,6 +3,11 @@
 2. Click Download ZIP
 3. Extract to game folder and Replace All.
 
+# Translate Pictures:
+https://mega.nz/file/3LxxGCIC#ZutH8bep3QrJJNRK4UpWWKvgQ5Kp3TwbxhY2NElD4D8
+
+1. Place in Game folder and select replace all.
+
 # How To Contribute
 TLDR 3 steps.
 
